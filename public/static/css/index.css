@@ -615,7 +615,7 @@ a {
     aspect-ratio: 3 / 4;
 
     background-image:
-        url("./public/profile.png");
+        url("../public/profile.png");
 
     background-position: center;
     background-size: cover;
