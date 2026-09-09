@@ -615,7 +615,7 @@ a {
     aspect-ratio: 3 / 4;
 
     background-image:
-        url("/public/images/IMG_20260909_205228.png");
+        url("../public/images/IMG_20260909_205228.png");
 
     background-position: center;
     background-size: cover;
